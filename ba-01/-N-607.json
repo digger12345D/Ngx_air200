@@ -1,0 +1,113 @@
+{
+    "acquisition_software": "pychron 19.6",
+    "aliquot": 607,
+    "analysis_type": "blank_air",
+    "analyst_name": "root",
+    "arar_mapping": {
+        "Ar36": "Ar36",
+        "Ar37": "Ar37",
+        "Ar38": "Ar38",
+        "Ar39": "Ar39",
+        "Ar40": "Ar40"
+    },
+    "collection_version": "1.0:2.0",
+    "comment": "",
+    "commit": "c296f1f9fd4750041890de3ceca7cb87ddfe5268",
+    "conditionals": null,
+    "data_reduction_software": "pychron 19.6",
+    "detectors": {
+        "H1": {
+            "deflection": null,
+            "gain": null
+        },
+        "H3": {
+            "deflection": null,
+            "gain": null
+        },
+        "L1": {
+            "deflection": null,
+            "gain": null
+        },
+        "L3": {
+            "deflection": null,
+            "gain": null
+        },
+        "L5": {
+            "deflection": null,
+            "gain": null
+        }
+    },
+    "environmental": {
+        "lab_humiditys": [],
+        "lab_pneumatics": [],
+        "lab_temperatures": []
+    },
+    "experiment_queue_name": "Blank_test_20203001",
+    "experiment_type": "Ar/Ar",
+    "extraction": "ngx_AirShot_eq12_wLaser.py",
+    "grainsize": "",
+    "hops": "",
+    "identifier": "ba-01-N",
+    "increment": null,
+    "instrument_name": "",
+    "intensity_scalar": 0.0,
+    "irradiation": "",
+    "irradiation_level": "",
+    "irradiation_position": "",
+    "isotopes": {
+        "Ar36": {
+            "detector": "L5",
+            "name": "Ar36",
+            "serial_id": "00000"
+        },
+        "Ar37": {
+            "detector": "L3",
+            "name": "Ar37",
+            "serial_id": "00000"
+        },
+        "Ar38": {
+            "detector": "L1",
+            "name": "Ar38",
+            "serial_id": "00000"
+        },
+        "Ar39": {
+            "detector": "H1",
+            "name": "Ar39",
+            "serial_id": "00000"
+        },
+        "Ar40": {
+            "detector": "H3",
+            "name": "Ar40",
+            "serial_id": "00000"
+        }
+    },
+    "laboratory": "",
+    "latitude": "",
+    "lithology": "",
+    "lithology_class": "",
+    "lithology_group": "",
+    "lithology_type": "",
+    "longitude": "",
+    "mass_spectrometer": "Ngx",
+    "material": "",
+    "measurement": "ngx_unknown30_60_10_nocenter.py",
+    "post_equilibration": "",
+    "post_measurement": "ngx_pump_ms.py",
+    "principal_investigator": "",
+    "project": "",
+    "queue_conditionals_name": "",
+    "repository_identifier": "Ngx_air200",
+    "rlocation": null,
+    "sample": "",
+    "source": {
+        "emission": 688.0,
+        "trap": 199.98796
+    },
+    "spec_sha": "74977d4d704d501f880d7bf659d719c575f0ea5f",
+    "timestamp": "2020-01-30T08:15:12.156450",
+    "tripped_conditional": null,
+    "unit": null,
+    "username": "root",
+    "uuid": "74d6d1c4-8f59-4b04-a348-05835ed21f94",
+    "whiff_result": null
+}
