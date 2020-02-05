@@ -1,5 +1,5 @@
 {
-    "acquisition_software": "pychron 19.6",
+    "acquisition_software": "pychron 20.1",
     "aliquot": 699,
     "analysis_type": "blank_air",
     "analyst_name": "",
@@ -10,11 +10,11 @@
         "Ar39": "Ar39",
         "Ar40": "Ar40"
     },
-    "collection_version": "1.0:2.0",
+    "collection_version": "1.0:2.1",
     "comment": "",
     "commit": "b49f960cd8bb5afe89dc26a721f7ac13924876bd",
     "conditionals": null,
-    "data_reduction_software": "pychron 19.6",
+    "data_reduction_software": "pychron 20.1",
     "detectors": {
         "H1": {
             "deflection": null,
@@ -42,7 +42,7 @@
         "lab_pneumatics": [],
         "lab_temperatures": []
     },
-    "experiment_queue_name": "NGX_10s_airs_20200130",
+    "experiment_queue_name": "NGX_smallsignal_20200205",
     "experiment_type": "Ar/Ar",
     "extraction": "ngx_AirShot_eq12.py",
     "grainsize": "",
@@ -82,32 +82,32 @@
         }
     },
     "laboratory": "",
-    "latitude": "",
-    "lithology": "",
-    "lithology_class": "",
-    "lithology_group": "",
-    "lithology_type": "",
-    "longitude": "",
-    "mass_spectrometer": "ngx",
+    "latitude": null,
+    "lithology": null,
+    "lithology_class": null,
+    "lithology_group": null,
+    "lithology_type": null,
+    "longitude": null,
+    "mass_spectrometer": "Ngx",
     "material": "Blank",
     "measurement": "ngx_unknown40_120_10_nocenter.py",
     "post_equilibration": "ngx_pump_extraction_line.py",
     "post_measurement": "ngx_pump_ms.py",
-    "principal_investigator": "",
+    "principal_investigator": "WiscAr",
     "project": "References",
     "queue_conditionals_name": "",
     "repository_identifier": "Ngx_air200",
-    "rlocation": null,
+    "rlocation": "",
     "sample": "Blank",
     "source": {
         "emission": 689.0,
-        "trap": 199.98752
+        "trap": 199.97107
     },
     "spec_sha": "74977d4d704d501f880d7bf659d719c575f0ea5f",
-    "timestamp": "2020-02-04T10:22:01.513823",
+    "timestamp": "2020-02-05T17:33:38.836874",
     "tripped_conditional": null,
     "unit": null,
     "username": "",
-    "uuid": "71ee5302-8ac5-4a10-95b3-ae3f22c0b1a2",
+    "uuid": "c7525a47-d875-41c2-96a1-76598641ea21",
     "whiff_result": null
 }
