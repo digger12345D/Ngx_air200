@@ -1,0 +1,77 @@
+{
+    "acquisition_software": "pychron 20.1",
+    "aliquot": 1091,
+    "analysis_type": "blank_air",
+    "analyst_name": "root",
+    "arar_mapping": {
+        "Ar36": "Ar36",
+        "Ar37": "Ar37",
+        "Ar38": "Ar38",
+        "Ar39": "Ar39",
+        "Ar40": "Ar40"
+    },
+    "collection_version": "1.0:2.1",
+    "comment": "",
+    "commit": "10d45694cb8b2fd2c73e721ade5fa223859c57ed",
+    "conditionals": null,
+    "data_reduction_software": "pychron 20.1",
+    "detectors": {
+        "L3": {
+            "deflection": null,
+            "gain": null
+        }
+    },
+    "environmental": {
+        "lab_humiditys": [],
+        "lab_pneumatics": [],
+        "lab_temperatures": []
+    },
+    "experiment_queue_name": "L3_40",
+    "experiment_type": "Ar/Ar",
+    "extraction": "ngx_AirShot_Hop.py",
+    "grainsize": "",
+    "hops": "",
+    "identifier": "ba-01-N",
+    "increment": null,
+    "instrument_name": "",
+    "intensity_scalar": 0.0,
+    "irradiation": "NoIrradiation",
+    "irradiation_level": "A",
+    "irradiation_position": 4,
+    "isotopes": {
+        "Ar40": {
+            "detector": "L3",
+            "name": "Ar40",
+            "serial_id": "00000"
+        }
+    },
+    "laboratory": "",
+    "latitude": null,
+    "lithology": null,
+    "lithology_class": null,
+    "lithology_group": null,
+    "lithology_type": null,
+    "longitude": null,
+    "mass_spectrometer": "Ngx",
+    "material": "Blank",
+    "measurement": "ngx_unknown70_200_10_nocenter_L3_40.py",
+    "post_equilibration": "ngx_pump_extraction_line.py",
+    "post_measurement": "ngx_pump_ms.py",
+    "principal_investigator": "WiscAr",
+    "project": "References",
+    "queue_conditionals_name": "",
+    "repository_identifier": "Ngx_air200",
+    "rlocation": "",
+    "sample": "Blank",
+    "source": {
+        "emission": 686.0,
+        "trap": 200.01057
+    },
+    "spec_sha": "74977d4d704d501f880d7bf659d719c575f0ea5f",
+    "timestamp": "2020-03-07T20:24:55.221090",
+    "tripped_conditional": null,
+    "unit": null,
+    "username": "root",
+    "uuid": "4c406c39-748f-4308-8c57-110eb5f63bfa",
+    "whiff_result": null
+}
